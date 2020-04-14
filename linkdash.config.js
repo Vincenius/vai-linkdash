@@ -271,7 +271,7 @@ module.exports = async () => {
     ],
 
     disableOpen: false,
-    output: "./index.html",
+    output: "./out/index.html",
     htmlHead: `
     <meta name="robots" content="noindex" />
     `.trim(),
